@@ -1,21 +1,39 @@
-headline,clickbait,prediction
-No debt yet: Iceland's President vetoes repayment of Icesave losses,0,0
-Maradona honored with the keys to Cartagena,0,0
-7 Struggles All People With Common Names Understand,1,1
-Apple announces new iPod range,0,0
-12 Trees That Would Be Getting Tons Of Ass If They Were Human,1,1
-"Indian Women Are Never Taught How To Be Alone, And That's A Problem",1,1
-"On Day of Comebacks, Biggest Belongs to Dokic",0,0
-"Bronx, New York church destroyed in suspicious blaze",0,0
-"Native Hawaiians blockade historic palace to restore ""Hawaiian nation""",0,0
-People Try Lychee Jelly For The First Time,1,0
-17 Heartbreaking Confessions From College Students Who Suffer From Depression,1,1
-19 Things Only Fall Out Boy Fans Understand,1,1
-7 Yule Log Cakes That Literally Look Like Shit,1,1
-John Boyega Was Actually The Cutest Part Of The BAFTAs,1,1
-Chrissy Teigen Has Hit Back At People Speculating Over Her Pregnancy,1,1
-Seven Canadians killed by Israeli air strike,0,0
-Here's What Rihanna Fans Really Think Of Her New Album,1,1
-"A Student Just Made The Best Cover Of Adele's ""Hello"" You May Ever Hear",1,1
-"After Humbling Exit, a World Champion Shrug From Italy",0,1
-Intel's offices across the EU raided,0,0
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,0
+Three of Serbia's neighbours recognize Kosovo,0,1,"**1**
+
+**Reasoning:**
+
+While the headline is factual in nature (it reports on a political development regarding Kosovo's international recognition), it employs several characteristics that push it toward clickbait territory, especially in the context of online news aggregation:
+
+1. **Focus on a Potentially Sensational/High-Interest Topic:** The status of Kosovo's independence is a highly charged, politically sensitive, and emotionally invested topic for many readers (both those interested in geopolitics and those with vested interests in the region).
+2. **Implied Urgency/Information Gap:** The headline presents a definitive piece of information (""Three of Serbia's neighbours recognize Kosovo""). The reader's immediate thought is, ""Three? Which three? Why is this significant? What does this mean for the fourth country?"" This creates an information gap that encourages a click to find out the specifics or the broader implications.
+3. **Conciseness:** It is short and punchy, designed to stand out in a feed.
+
+**Why it leans toward clickbait (even if factual):**
+
+In many news environments, headlines are designed to maximize clicks. While this headline might be accurate, its structure is designed to draw attention to a specific, potentially underestimated piece of information regarding a high-stakes topic, fitting the pattern of drawing clicks based on geopolitical interest rather than purely informative titling."
+"Geithner, Member and Overseer of Finance Club",0,1,"opic: The headline is very short and lacks context. It reads like a title or a designation rather than a typical news headline designed to entice clicks.
+
+*   **""Geithner, Member and Overseer of Finance Club""**
+
+**Analysis:**
+
+1.  **Sensationalism/Curiosity Gap:** Does it create a strong curiosity gap? Not really. It states facts about a person named Geithner.
+2.  **Emotional Manipulation:** Does it use strong emotional language? No.
+3.  **Typical Clickbait Structure:** Clickbait usually involves exaggeration, promises of shocking information, or highly vague language that requires clicking to resolve.
+
+This headline reads more like a directory entry, a masthead title, or a very dry organizational announcement. While it's not overtly sensational, it's also not highly informative about why the reader should care.
+
+However, in the context of ""news headlines,"" headlines are expected to draw attention. Because this headline is so factual and descriptive (""Member and Overseer""), it doesn't employ the typical exaggerative techniques of clickbait. It's too dry to be classified as modern clickbait.
+
+Given the binary choice (1 for clickbait, 0 for non-clickbait), it leans toward **0 (non-clickbait)** because it functions more like a factual label than a lure.
+
+**Answer:** 0"
+This Comic Proves You Have No Excuse Not To Meditate,1,1,1
+42 Dogs Who Found Their Forever Homes In 2015,1,0,Answer: 0
+Cafe Experience Is Shifting to the Home,0,1,1
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,1
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,1
+Indiana tornado kills at least 19,0,1,1
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,1
